@@ -76,7 +76,7 @@
     "@node-steam/vdf": "^2.0.1",
     "@types/rangy": "0.0.32",
     "ajv": "^6.4.0",
-    "async": "^2.6.0",
+    "async": "^2.6.4",
     "blob-to-buffer": "^1.2.7",
     "bluebird": "^3.5.1",
     "colornames": "^1.1.1",
